@@ -1,4 +1,6 @@
-# syntax=docker/dockerfile:1
+# Workshop Exercise: Complete the missing parts of this Dockerfile based on the comments below.
+# Hint: Read the comments carefully and fill in the blanks to create a working Dockerfile!
+#------------------------------------------------------------------------------------------
 
 # Use the official Node.js image based on Alpine Linux for a lightweight base image
 FROM node:lts-alpine
